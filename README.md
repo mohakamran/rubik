@@ -8,7 +8,7 @@ https://mohakamran.github.io/rubik/
 
 ## 🖼️ Screenshot
 The following image shows the simulator interface and 3D cube rendering:  
-Screenshot.png
+![Rubik's Cube Screenshot](./Screenshot.png)
 
 ## ✨ Features
 - **Immersive 3D Graphics:** Realistic rendering powered by Three.js.
